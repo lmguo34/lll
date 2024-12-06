@@ -1,0 +1,11 @@
+2024-12-02 09:27:33.8620-INFO v2rayN start up | v2rayN - V6.31 - 2023/12/03 | C:\Users\lmguo\Desktop\v2rayN231204\v2rayN.exe
+2024-12-02 09:28:34.3396-INFO UpdateTaskRunSubscription
+2024-12-02 09:29:34.3426-INFO UpdateTaskRunGeo
+2024-12-02 11:21:46.7526-INFO MyAppExit Begin
+2024-12-02 11:21:46.8844-INFO MyAppExit End
+2024-12-02 15:19:19.6077-INFO v2rayN start up | v2rayN - V6.31 - 2023/12/03 | C:\Users\lmguo\Desktop\v2rayN231204\v2rayN.exe
+2024-12-02 15:20:20.2659-INFO UpdateTaskRunSubscription
+2024-12-02 15:21:20.2684-INFO UpdateTaskRunGeo
+2024-12-02 15:44:17.0473-INFO Current_SessionEnding
+2024-12-02 15:44:17.0473-INFO MyAppExit Begin
+2024-12-02 15:44:17.4163-INFO MyAppExit End

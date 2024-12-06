@@ -1,0 +1,7 @@
+2024-12-06 08:37:55.8509-INFO v2rayN start up | v2rayN - V6.31 - 2023/12/03 | C:\Users\lmguo\Desktop\v2rayN231204\v2rayN.exe
+2024-12-06 08:38:56.3505-INFO UpdateTaskRunSubscription
+2024-12-06 08:39:56.3502-INFO UpdateTaskRunGeo
+2024-12-06 08:41:00.0688-DEBUG Process with an Id of 42164 is not running.,Process with an Id of 42164 is not running.
+2024-12-06 08:41:00.0688-DEBUG    at System.Diagnostics.Process.GetProcessById(Int32 processId, String machineName)
+   at System.Diagnostics.Process.GetProcessById(Int32 processId)
+   at v2rayN.Handler.CoreHandler.CoreStopPid(Int32 pid)
